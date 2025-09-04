@@ -65,8 +65,8 @@ const perguntas = [
         "Sim",
         "Não"
     ]
-}
-]
+},
+];
 
 let atual = 0;
 let perguntaAtual;
