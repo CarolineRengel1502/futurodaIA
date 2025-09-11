@@ -62,8 +62,8 @@ const perguntas = [
 {
     enunciado: "7- No futuro, os robôs com inteligência Artificial poderão cuidar de idosos e pessoas com deficiência?",
     alternativas: [
-        {"Sim",}
-        {"Não"}
+        "Sim",
+        "Não"
     ]
 },
 ];
