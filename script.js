@@ -99,8 +99,7 @@ function respostaSelecionada(opcaoSelecionada){
     mostraPergunta();
 }
 function mostraResultado() {
-    caixaPerguntas.textContent = "Você já parou para pensar como vai ser a IA no futuro?
-Discutir o futuro da Inteligência Artificial é essencial para entender como ela pode contribuir para a sociedade e quais cuidados precisamos ter.";
+    caixaPerguntas.textContent = "Você já parou para pensar como vai ser a IA no futuro? Discutir o futuro da Inteligência Artificial é essencial para entender como ela pode contribuir para a sociedade e quais cuidados precisamos ter.";
 textoResultado.textContent = historiaFinal;
 caixaAlternativas.textContent = "";
 }
